@@ -9,14 +9,14 @@
 
 ## git 설치
 
-> [Git](https://git-scm.com/)
+>[Git](https://git-scm.com/)
 
 ## git 명령어
 
 #### 최초 설정(필수)
 
-	$ git config --global user.name "user name"
-	$ git config --global user.email user.email@example.com
+	$ git config --global user.name 'user name'
+	$ git config --global user.email 'user.email@example.com'
 
 #### 기본 명령어
 
@@ -33,11 +33,11 @@
 | 변경 이력 보기 |  `git log` |
 
 
-> [누구나 쉽게 이해할 수 있는 Git](https://backlog.com/git-tutorial/kr/)
+>[누구나 쉽게 이해할 수 있는 Git](https://backlog.com/git-tutorial/kr/)
 
 ## github에서 간단하게 사이트 만들기
 
-> [theUBERuid.github.io](https://github.com/theUBERuid/theUBERuid.github.io)
+>[theUBERuid.github.io](https://github.com/theUBERuid/theUBERuid.github.io)
 
 ## jekyll을 사용하여 블로그 만들기
 
@@ -50,15 +50,17 @@
 - 파일 이름 `_posts/YYYY-MM-DD-name-of-post.ext`
 - 기본 문법 MARKDOWN(*.md)
 
-> [jekyll themes](http://jekyllthemes.org/)
+>[jekyll themes](http://jekyllthemes.org/)
 
 ## github를 이용한 블로그
 
-> [kakao 기술 블로그](http://tech.kakao.com/)
+>[kakao 기술 블로그](http://tech.kakao.com/)
+
+>[우아한형제들 기술 블로그](http://woowabros.github.io/)
 
 ## 참고 사이트
 
-> [누구나 쉽게 이해할 수 있는 Git](https://backlog.com/git-tutorial/kr/)
+>[누구나 쉽게 이해할 수 있는 Git](https://backlog.com/git-tutorial/kr/)
 
-> [윈도우에서 지킬 설치 및 블로그 생성하기](https://shryu8902.github.io/jekyll/jekyll-on-windows/)
+>[윈도우에서 지킬 설치 및 블로그 생성하기](https://shryu8902.github.io/jekyll/jekyll-on-windows/)
 
