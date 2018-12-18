@@ -11,6 +11,19 @@
 
 ## 자주 사용하는 git명령어
 
+### git의 환경 확인
+
+	$ git config --list
+	$ git config --global --list
+
+### 최초 글로벌 설정
+
+	$ git config --global user.name "Your Name"
+	$ git config --global user.email your.email@example.com
+	$ git config --global core.editor "sublime_text -w"
+	$ git config --global merge.tool vimdiff
+	$ git config --global color.ui true
+
 ### 자주 사용하는 git명령어
 
 |  | command |
