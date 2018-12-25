@@ -10,8 +10,6 @@
 
 ## github pages 장점
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allowfullscreen></iframe>
-
 |  | 구축형 (Wordpress) | 가입형 (Tistory) | GitHub Pages |
 |:--:|:--:|:--:|:--:|
 | 비용 | 유료(서버+네트웍) | 무료 | 무료 |
@@ -20,8 +18,9 @@
 | Markdown | 가능 | 불가능(제한적) | 가능 |
 | HTML 편집 | 가능 | 불가능(제한적) | 가능 |
 
-> markdown이란?
-> ㅇㅇㅇ
+> markdown이란?<br>
+> 마크다운은 HTML 보다 더 빨리 입력할 수 있고, 배우는데 드는 시간도 적습니다. 일반적인 글자 서식을 적용하는데 사용할 수 있습니다. 기울이기, 인용문 넣기, 여러 수준의 제목 추가, 숫자/글 머리 기호 목록 작성, 취소선 긋기 같은 서식 말이죠. URL 링크, 이메일 링크, 이미지, 주석과 주석 링크, 간단한 표를 넣는데도 사용 가능합니다.<br>
+> 마크다운은 지원하는 환경이라면 어디서든 쓸 수 있습니다. 그리고, 복사해서 옮겨도 서식이 깨지지 않아요.
 
 ## git 설치
 
