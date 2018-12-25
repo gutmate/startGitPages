@@ -52,13 +52,7 @@
 
 >[누구나 쉽게 이해할 수 있는 Git](https://backlog.com/git-tutorial/kr/)
 
-## :book: GitHub에서 간단하게 사이트 만들기
 
-1. repogitory 이름 일치 시키기
-1. ㅇㅇㅇ
-1. ㄹㄹㄹ
-
->[theUBERuid.github.io](https://theUBERuid.github.io)
 
 ## :book: jekyll을 사용하여 블로그 만들기
 
@@ -73,6 +67,7 @@
 > 여기서 **동적**이란 화려한 **시각적 효과**나 **움직임**을 지칭하는 단어가 **아니다**. 좀 더 정확히 말하자면 **HTML 페이지**를 클라이언트의 요청에 따라서 **실시간으로 생성해서 보내준다**는 의미를 가지고 있다. 즉 **서버는 완성된 HTML을 가지고 있지 않다**. 거의 완성되어있거나, 심지어는 아무것도 없이도 **요청에 따라 실시간으로 완성된 문서**를 다시 보내준다.
 
 > [정적 웹사이트 생성기의 역습 - 동적 스크립트를 넘어 다시 정적 컨텐츠로](https://blog.nacyot.com/articles/2014-01-15-static-site-generator/)
+
 
 
 #### 구조
@@ -112,6 +107,8 @@
 
 ##### 2. 머리말 설정
 
+- 머리말 설정
+
 ```markdown
 ---
 layout: post
@@ -121,33 +118,36 @@ categories: jekyll update
 ---
 ```
 
-- ㅇㅇ
-
 ##### 3. 본문 작성
-
-```markdown
-# 제목
-## 부제목
-- 실행하기
-- ㅇㅇㅇ
-- ㅇㅇㅇ
-```
 
 - 마크다운을 이용해서 본문 작성
 
+```markdown
+# 제목
 
->[jekyll themes download](http://jekyllthemes.org/)
+## 부제목
+
+- 내용 A
+- 내용 B
+- 내용 C
+
+[링크제목](https://링크주소.com/)
+```
+
+> [jekyll themes download](http://jekyllthemes.org/)
 
 ## :earth_americas: GitHub를 이용한 블로그
 
->[kakao 기술 블로그](http://tech.kakao.com/)
+> [theUBERuid.github.io](https://theUBERuid.github.io)
 
->[우아한형제들 기술 블로그](http://woowabros.github.io/)
+> [kakao 기술 블로그](http://tech.kakao.com/)
+
+> [우아한형제들 기술 블로그](http://woowabros.github.io/)
 
 ## :link: 참고 사이트
 
->[누구나 쉽게 이해할 수 있는 Git](https://backlog.com/git-tutorial/kr/)
+> [누구나 쉽게 이해할 수 있는 Git](https://backlog.com/git-tutorial/kr/)
 
->[윈도우에서 지킬 설치 및 블로그 생성하기](https://shryu8902.github.io/jekyll/jekyll-on-windows/)
+> [윈도우에서 지킬 설치 및 블로그 생성하기](https://shryu8902.github.io/jekyll/jekyll-on-windows/)
 
 > [정적 웹사이트 생성기의 역습 - 동적 스크립트를 넘어 다시 정적 컨텐츠로](https://blog.nacyot.com/articles/2014-01-15-static-site-generator/)
