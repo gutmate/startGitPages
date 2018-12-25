@@ -1,6 +1,6 @@
-# git 블로그 시작하기
+# {git 블로그 :zap:시작하기}
 
-#### 목차
+#### :mag_right: 목차
 
 1. [GitHub pages 장점](#GitHub-pages-장점)
 1. [git 설치](#git-설치)
@@ -10,7 +10,7 @@
 1. [GitHub를 이용한 블로그](#GitHub를-이용한-블로그)
 1. [참고 사이트](#참고-사이트)
 
-## GitHub pages 장점
+## :thumbsup: itHub pages 장점
 
 |  | 구축형 (Wordpress) | 가입형 (Tistory) | GitHub Pages |
 |:--:|:--:|:--:|:--:|
@@ -81,7 +81,7 @@
 
 #### 포스팅
 
-- 파일 이름 `_posts/YYYY-MM-DD-name-of-post.ext`
+- 파일 이름 `_posts/YYYY-MM-DD-name-of-post.md`
 - 기본 문법 MARKDOWN(*.md)
 
 >[jekyll themes](http://jekyllthemes.org/)
