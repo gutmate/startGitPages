@@ -10,7 +10,7 @@
 1. [GitHub를 이용한 블로그](#GitHub를-이용한-블로그)
 1. [참고 사이트](#참고-사이트)
 
-## :thumbsup: itHub pages 장점
+## :thumbsup: GitHub pages 장점
 
 |  | 구축형 (Wordpress) | 가입형 (Tistory) | GitHub Pages |
 |:--:|:--:|:--:|:--:|
@@ -28,7 +28,7 @@
 
 >[Git](https://git-scm.com/)
 
-## git 명령어
+## :computer: git 명령어
 
 #### 최초 설정(필수)
 
