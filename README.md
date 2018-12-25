@@ -2,13 +2,14 @@
 
 #### 목차
 
-1. [github pages 장점](#github-pages-장점)
+1. [GitHub pages 장점](#GitHub-pages-장점)
 1. [git 설치](#git-설치)
 1. [git 명령어](#git-명령어)
-1. [github에서 간단하게 사이트 만들기](#github에서-간단하게-사이트-만들기)
+1. [GitHub에서 간단하게 사이트 만들기](#GitHub에서-간단하게-사이트-만들기)
 1. [jekyll을 사용하여 블로그 만들기](#jekyll을-사용하여-블로그-만들기)
+1. [GitHub를 이용한 블로그](#GitHub를-이용한-블로그)
 
-## github pages 장점
+## GitHub pages 장점
 
 |  | 구축형 (Wordpress) | 가입형 (Tistory) | GitHub Pages |
 |:--:|:--:|:--:|:--:|
@@ -50,9 +51,11 @@
 
 >[누구나 쉽게 이해할 수 있는 Git](https://backlog.com/git-tutorial/kr/)
 
-## github에서 간단하게 사이트 만들기
+## GitHub에서 간단하게 사이트 만들기
 
-- repo
+1. repogitory 이름 일치 시키기
+1.
+1. ㄹㄹㄹ
 
 >[theUBERuid.github.io](https://github.com/theUBERuid/theUBERuid.github.io)
 
@@ -75,7 +78,7 @@
 
 >[jekyll themes](http://jekyllthemes.org/)
 
-## github를 이용한 블로그
+## GitHub를 이용한 블로그
 
 >[kakao 기술 블로그](http://tech.kakao.com/)
 
