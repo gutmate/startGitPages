@@ -68,13 +68,11 @@
 
 > [정적 웹사이트 생성기의 역습 - 동적 스크립트를 넘어 다시 정적 컨텐츠로](https://blog.nacyot.com/articles/2014-01-15-static-site-generator/)
 
-
-
 #### 구조
 
 가장 기본적인 Jekyll 폴더 구조
 
-```sh
+```
 ├── _config.yml
 ├── _data
 |   └── members.yml
@@ -133,6 +131,14 @@ tags: Git
 - 내용 C
 
 [링크제목](https://링크주소.com/)
+```
+
+##### 4. github 전송
+
+```
+$ git add .
+$ git -m 'Add post'
+$ git push origin master
 ```
 
 > [jekyll themes download](http://jekyllthemes.org/)
