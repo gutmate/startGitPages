@@ -75,7 +75,7 @@
 > [정적 웹사이트 생성기의 역습 - 동적 스크립트를 넘어 다시 정적 컨텐츠로](https://blog.nacyot.com/articles/2014-01-15-static-site-generator/)
 
 
-#### 원리
+#### 구조
 
 가장 기본적인 Jekyll 사이트 구조
 
@@ -100,16 +100,43 @@
 |   └── _layout.scss
 ├── _site
 ├── .jekyll-metadata
-└── index.html # can also be an 'index.md' with valid YAML Frontmatter
+└── index.html
 ```
 
+#### 포스팅하기
 
-#### 포스팅
+##### 1. 파일 생성
 
 - 파일 이름 `_posts/YYYY-MM-DD-name-of-post.md`
 - 기본 문법 MARKDOWN(*.md)
 
->[jekyll themes](http://jekyllthemes.org/)
+##### 2. 머리말 설정
+
+```markdown
+---
+layout: post
+title: "Welcome to Jekyll!"
+date: 2018-12-25 16:16:01 -0600
+categories: jekyll update
+---
+```
+
+- ㅇㅇ
+
+##### 3. 본문 작성
+
+```markdown
+# 제목
+## 부제목
+- 실행하기
+- ㅇㅇㅇ
+- ㅇㅇㅇ
+```
+
+- 마크다운을 이용해서 본문 작성
+
+
+>[jekyll themes download](http://jekyllthemes.org/)
 
 ## :earth_americas: GitHub를 이용한 블로그
 
