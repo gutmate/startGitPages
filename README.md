@@ -24,7 +24,7 @@
 > 마크다운은 HTML 보다 더 빨리 입력할 수 있고, 배우는데 드는 시간도 적으며 일반적인 글자 서식을 적용하는데 사용할 수 있다. 기울이기, 인용문 넣기, 여러 수준의 제목 추가(h1, h2, h3...), 숫자/글 머리 기호 목록 작성, 취소선 긋기 같은 서식들. URL 링크, 이메일 링크, 이미지, 주석과 주석 링크, 간단한 표를 넣는데도 사용 가능하다.<br><br>
 > 마크다운은 지원하는 환경이라면 어디서든 쓸 수 있으며 복사해서 옮겨도 서식이 깨지지 않는다.
 
-## git 설치
+## :cd: git 설치
 
 >[Git](https://git-scm.com/)
 
@@ -52,7 +52,7 @@
 
 >[누구나 쉽게 이해할 수 있는 Git](https://backlog.com/git-tutorial/kr/)
 
-## GitHub에서 간단하게 사이트 만들기
+## :book: GitHub에서 간단하게 사이트 만들기
 
 1. repogitory 이름 일치 시키기
 1. ㅇㅇㅇ
@@ -60,11 +60,11 @@
 
 >[theUBERuid.github.io](https://theUBERuid.github.io)
 
-## jekyll을 사용하여 블로그 만들기
+## :book: jekyll을 사용하여 블로그 만들기
 
 #### jekyll?
 
-- 위에서 거론된 Markdown 포맷을 지원하기 위해서 GitHub에서는 [Jekyll(ko)](https://jekyllrb-ko.github.io/)라는 정적 사이트 생성기(Static Site Generator)를 사용한다.
+- 위에서 거론된 Markdown 포맷을 지원하기 위해서 GitHub에서는 [Jekyll(:kr:)](https://jekyllrb-ko.github.io/)라는 정적 사이트 생성기(Static Site Generator)를 사용한다.
 - Markdown 문법으로 작성된 파일을(*.md) 정적 사이트 생성기가 알아서 HTML로 바꾸어 준다.
 
 > **정적**이라는 단어는 그 동안에 웹 어플리케이션이 발전해 온 데 있어서 **정반대**의 위치에 있는 단어다.<br>
@@ -77,6 +77,31 @@
 
 #### 원리
 
+가장 기본적인 Jekyll 사이트 구조
+
+```sh
+├── _config.yml
+├── _data
+|   └── members.yml
+├── _drafts
+|   ├── begin-with-the-crazy-ideas.md
+|   └── on-simplicity-in-technology.md
+├── _includes
+|   ├── footer.html
+|   └── header.html
+├── _layouts
+|   ├── default.html
+|   └── post.html
+├── _posts
+|   ├── 2007-10-29-why-every-programmer-should-play-nethack.md
+|   └── 2009-04-26-barcamp-boston-4-roundup.md
+├── _sass
+|   ├── _base.scss
+|   └── _layout.scss
+├── _site
+├── .jekyll-metadata
+└── index.html # can also be an 'index.md' with valid YAML Frontmatter
+```
 
 
 #### 포스팅
@@ -86,13 +111,13 @@
 
 >[jekyll themes](http://jekyllthemes.org/)
 
-## GitHub를 이용한 블로그
+## :earth_americas: GitHub를 이용한 블로그
 
 >[kakao 기술 블로그](http://tech.kakao.com/)
 
 >[우아한형제들 기술 블로그](http://woowabros.github.io/)
 
-## 참고 사이트
+## :link: 참고 사이트
 
 >[누구나 쉽게 이해할 수 있는 Git](https://backlog.com/git-tutorial/kr/)
 
