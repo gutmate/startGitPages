@@ -143,6 +143,8 @@ $ git push origin master
 
 > [jekyll themes download](http://jekyllthemes.org/)
 
+> [jekyll themes download 2](http://themes.jekyllrc.org/)
+
 ## :earth_americas: GitHub를 이용한 블로그
 
 > [theUBERuid.github.io](https://theUBERuid.github.io)
