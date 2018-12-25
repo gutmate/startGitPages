@@ -12,7 +12,7 @@
 
 |  | 구축형 (Wordpress) | 가입형 (Tistory) | GitHub Pages |
 |:--:|:--:|:--:|:--:|
-| 비용 | 유료(서버+네트웍) | 무료 | 무료 |
+| 비용 | 유료(서버) | 무료 | 무료 |
 | 서버 구축 | 필요함 | 필요없음 | 필요없음 |
 | 네트워크 설정 | 필요함 | 필요없음 | 필요없음 |
 | Markdown | 가능 | 불가능(제한적) | 가능 |
@@ -57,6 +57,12 @@
 >[theUBERuid.github.io](https://github.com/theUBERuid/theUBERuid.github.io)
 
 ## jekyll을 사용하여 블로그 만들기
+
+#### jekyll??
+
+- 위에서 거론된 Markdown 포맷을 지원하기 위해서 GitHub에서는 [Jekyll(ko)](https://jekyllrb-ko.github.io/)라는 정적 사이트 생성기(Static Site Generator)를 사용한다.
+- Markdown 문법으로 작성된 파일을(*.md) 정적 사이트 생성기가 알아서 HTML로 바꾸어 준다.
+-
 
 #### 원리
 
