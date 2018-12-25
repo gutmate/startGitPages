@@ -72,7 +72,7 @@
 
 #### 구조
 
-가장 기본적인 Jekyll 사이트 구조
+가장 기본적인 Jekyll 폴더 구조
 
 ```sh
 ├── _config.yml
