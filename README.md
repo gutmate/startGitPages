@@ -2,10 +2,26 @@
 
 #### 목차
 
+1. [github pages(GIT 블로그)](#github-pages)
 1. [git 설치](#git-설치)
 1. [git 명령어](#git-명령어)
 1. [github에서 간단하게 사이트 만들기](#github에서-간단하게-사이트-만들기)
 1. [jekyll을 사용하여 블로그 만들기](#jekyll을-사용하여-블로그-만들기)
+
+## github pages 장점
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allowfullscreen></iframe>
+
+|  | 구축형 (Wordpress) | 가입형 (Tistory) | GitHub Pages |
+|:--:|:--:|:--:|:--:|
+| 비용 | 유료(서버+네트웍) | 무료 | 무료 |
+| 서버 구축 | 필요함 | 필요없음 | 필요없음 |
+| 네트워크 설정 | 필요함 | 필요없음 | 필요없음 |
+| Markdown | 가능 | 불가능(제한적) | 가능 |
+| HTML 편집 | 가능 | 불가능(제한적) | 가능 |
+
+> markdown이란?
+> ㅇㅇㅇ
 
 ## git 설치
 
@@ -36,6 +52,8 @@
 >[누구나 쉽게 이해할 수 있는 Git](https://backlog.com/git-tutorial/kr/)
 
 ## github에서 간단하게 사이트 만들기
+
+- repo
 
 >[theUBERuid.github.io](https://github.com/theUBERuid/theUBERuid.github.io)
 
