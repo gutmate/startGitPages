@@ -8,6 +8,7 @@
 1. [GitHub에서 간단하게 사이트 만들기](#GitHub에서-간단하게-사이트-만들기)
 1. [jekyll을 사용하여 블로그 만들기](#jekyll을-사용하여-블로그-만들기)
 1. [GitHub를 이용한 블로그](#GitHub를-이용한-블로그)
+1. [참고 사이트](#참고-사이트)
 
 ## GitHub pages 장점
 
@@ -54,18 +55,23 @@
 ## GitHub에서 간단하게 사이트 만들기
 
 1. repogitory 이름 일치 시키기
-1.
+1. ㅇㅇㅇ
 1. ㄹㄹㄹ
 
 >[theUBERuid.github.io](https://github.com/theUBERuid/theUBERuid.github.io)
 
 ## jekyll을 사용하여 블로그 만들기
 
-#### jekyll??
+#### jekyll?
 
+- 정적 사이트 생성기
 - 위에서 거론된 Markdown 포맷을 지원하기 위해서 GitHub에서는 [Jekyll(ko)](https://jekyllrb-ko.github.io/)라는 정적 사이트 생성기(Static Site Generator)를 사용한다.
 - Markdown 문법으로 작성된 파일을(*.md) 정적 사이트 생성기가 알아서 HTML로 바꾸어 준다.
--
+- ddd
+
+> 정적인 페이지란 말그대로 이미 **완성된 HTML**이고, 클라이언트의 요청을 받는 서버의 역할은 단순히 이렇게 완성되어 있는 HTML을 보내주는 역할을 할 뿐입니다. 이러한 모델은 **우편부**를 통해서 비유하기에 아주 적절합니다. 그렇다면 웹이 동적으로 발전해왔다는 건 어떤 걸 의미할까요? 여기서 동적이란 화려한 시각적 효과나 움직임을 지칭하는 단어가 아닙니다. 좀 더 정확히 말하자면 HTML 페이지를 클라이언트의 요청에 따라서 실시간으로 생성해서 보내준다는 의미를 가지고 있습니다. 그래서 이러한 웹 어플리케이션을 배울 때 가장 먼저 나오는 가장 간단한 예는 항상 이름을 받고서 이름을 출력해주는 예제입니다. 즉 서버는 완성된 HTML을 가지고 있지 않습니다. 거의 완성되어있거나, 심지어는 아무것도 없이도 요청에 따라 실시간으로 완성된 문서를 다시 보내줍니다. 즉, 여기서 서버란 웹서버 어플리케이션과 웹 어플리케이션을 함께 이야기합니다.<br><br>
+> [정적 웹사이트 생성기의 역습 - 동적 스크립트를 넘어 다시 정적 컨텐츠로](https://blog.nacyot.com/articles/2014-01-15-static-site-generator/)
+
 
 #### 원리
 
@@ -90,3 +96,4 @@
 
 >[윈도우에서 지킬 설치 및 블로그 생성하기](https://shryu8902.github.io/jekyll/jekyll-on-windows/)
 
+> [정적 웹사이트 생성기의 역습 - 동적 스크립트를 넘어 다시 정적 컨텐츠로](https://blog.nacyot.com/articles/2014-01-15-static-site-generator/)
