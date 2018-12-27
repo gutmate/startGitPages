@@ -54,6 +54,10 @@
 
 ## :page_facing_up: GitHub에서 간단하게 페이지 만들기
 
+1. repository 생성(Github Pages로 이용할 repository 이름은 반드시 {account}.github.io 로 생성 ex)theuberuid.github.io)
+1. 해당 repository > Settings > GitHub Pages > Choose a theme
+1. 테마 선택
+
 ## :book: jekyll을 사용하여 블로그 만들기
 
 #### jekyll?
