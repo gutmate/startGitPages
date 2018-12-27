@@ -52,13 +52,13 @@
 
 >[누구나 쉽게 이해할 수 있는 Git](https://backlog.com/git-tutorial/kr/)
 
-## GitHub에서 간단하게 페이지 만들기
+## :book: GitHub에서 간단하게 페이지 만들기
 
 ## :book: jekyll을 사용하여 블로그 만들기
 
 #### jekyll?
 
-- 위에서 거론된 Markdown 포맷을 지원하기 위해서 GitHub에서는 [Jekyll(:kr:)](https://jekyllrb-ko.github.io/)라는 정적 사이트 생성기(Static Site Generator)를 사용한다.
+- 위에서 다룬 Markdown 포맷을 지원하기 위해서 GitHub에서는 [Jekyll(:kr:)](https://jekyllrb-ko.github.io/)이라는 정적 사이트 생성기(Static Site Generator)를 사용한다.
 - Markdown 문법으로 작성된 파일을(*.md) 정적 사이트 생성기가 알아서 HTML로 바꾸어 준다.
 
 > **정적**이라는 단어는 그 동안에 웹 어플리케이션이 발전해 온 데 있어서 **정반대**의 위치에 있는 단어다.<br>
