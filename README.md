@@ -52,7 +52,7 @@
 
 >[누구나 쉽게 이해할 수 있는 Git](https://backlog.com/git-tutorial/kr/)
 
-## :book: GitHub에서 간단하게 페이지 만들기
+## :page_facing_up: GitHub에서 간단하게 페이지 만들기
 
 ## :book: jekyll을 사용하여 블로그 만들기
 
