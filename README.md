@@ -313,7 +313,7 @@ tags: Git
 [링크제목](https://링크주소.com/)
 ```
 
-##### 4. github 전송
+##### 4. github서버에 전송
 
 ```
 $ git add .
