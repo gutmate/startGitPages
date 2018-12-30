@@ -32,8 +32,11 @@
 
 #### 최초 설정(필수)
 
-	$ git config --global user.name 'user name'
-	$ git config --global user.email 'user.email@example.com'
+	$ git config --global user.name '<user name>'
+	$ git config --global user.name 'jh.park'
+
+	$ git config --global user.email '<user.email@example.domain>'
+	$ git config --global user.email 'jh.park@theuber.co.kr>'
 
 #### 기본 명령어
 
