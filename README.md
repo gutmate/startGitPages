@@ -36,7 +36,7 @@
 	$ git config --global user.name 'jh.park'
 
 	$ git config --global user.email '<user.email@example.domain>'
-	$ git config --global user.email 'jh.park@theuber.co.kr>'
+	$ git config --global user.email 'jh.park@theuber.co.kr'
 
 #### 기본 명령어
 
