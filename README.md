@@ -33,10 +33,10 @@
 #### 최초 설정(필수)
 
 	$ git config --global user.name '<user name>'
-	$ git config --global user.name 'jh.park'
+	$ git config --global user.name 'gutmate'
 
 	$ git config --global user.email '<user.email@example.domain>'
-	$ git config --global user.email 'jh.park@theuber.co.kr'
+	$ git config --global user.email 'gutmate@github.com'
 
 #### 기본 명령어
 
@@ -322,8 +322,6 @@ $ git push origin master
 ```
 
 ## :earth_americas: GitHub를 이용한 블로그
-
-> [theUBERuid.github.io](https://theUBERuid.github.io)
 
 > [웹 프로그래밍 튜토리얼](https://poiemaweb.com/)
 
