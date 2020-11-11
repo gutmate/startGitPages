@@ -2,7 +2,7 @@
 
 #### :mag_right: 목차
 
-1. [GitHub pages 장점](#GitHub-pages-장점)
+1. [GitHub pages 장점](#:thumbsup:-GitHub-pages-장점)
 1. [git 설치](#git-설치)
 1. [git 명령어](#git-명령어)
 1. [GitHub에서 간단하게 페이지 만들기](#GitHub에서-간단하게-페이지-만들기)
